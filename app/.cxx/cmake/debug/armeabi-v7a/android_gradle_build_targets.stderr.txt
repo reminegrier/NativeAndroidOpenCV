@@ -1,0 +1,1 @@
+ninja: error: '/home/renault/dev/opencv/android_build_armeabi_v7a/out/sdk/native/libs/armeabi-v7a/libopencv_core.so', needed by '/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libmy-lib.so', missing and no known rule to make it

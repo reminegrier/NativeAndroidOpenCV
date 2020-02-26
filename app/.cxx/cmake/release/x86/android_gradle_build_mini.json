@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "/home/renault/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/home/renault/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "my-lib-Release-x86": {
+      "artifactName": "my-lib",
+      "buildCommand": "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/release/x86\" my-lib",
+      "abi": "x86",
+      "output": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/release/obj/x86/libmy-lib.so"
+    },
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/release/x86\" native-lib",
+      "abi": "x86",
+      "output": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so"
+    }
+  }
+}

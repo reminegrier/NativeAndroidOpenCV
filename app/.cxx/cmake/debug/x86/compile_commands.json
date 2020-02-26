@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86",
+  "command": "/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dmy_lib_EXPORTS -isystem /home/renault/dev/opencv/android_build_x86/out/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/my-lib.dir/my-lib.cpp.o -c /home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/my-lib.cpp",
+  "file": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/my-lib.cpp"
+},
+
+{
+  "directory": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86",
+  "command": "/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -isystem /home/renault/dev/opencv/android_build_x86/out/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/native-lib.cpp"
+}
+]

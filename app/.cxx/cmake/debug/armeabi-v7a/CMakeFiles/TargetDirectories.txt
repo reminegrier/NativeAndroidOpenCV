@@ -1,0 +1,4 @@
+/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/my-lib.dir
+/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir

@@ -1,0 +1,59 @@
+{
+  "stringTable": {
+    "0": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dmy_lib_EXPORTS -isystem /home/renault/dev/opencv/android_build_x86/out/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++14 -fexceptions -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android21 --gcc-toolchain=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS -isystem /home/renault/dev/opencv/android_build_x86/out/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++14 -fexceptions -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/renault/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/home/renault/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "my-lib-Debug-x86": {
+      "buildCommand": "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86\" my-lib",
+      "buildType": "debug",
+      "toolchain": "1364239293",
+      "abi": "x86",
+      "artifactName": "my-lib",
+      "files": [
+        {
+          "src": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/my-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/debug/obj/x86/libmy-lib.so"
+    },
+    "native-lib-Debug-x86": {
+      "buildCommand": "/usr/bin/ninja -C \"/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1364239293",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "1364239293": {
+      "cppCompilerExecutable": "/home/renault/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,1 @@
+ninja: Entering directory `/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/armeabi-v7a'

@@ -1,0 +1,8 @@
+Executable : /usr/bin/ninja
+arguments : 
+-C
+/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/.cxx/cmake/debug/x86
+my-lib
+native-lib
+jvmArgs : 
+

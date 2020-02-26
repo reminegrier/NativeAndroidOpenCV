@@ -1,0 +1,5 @@
+# ninja log v5
+1	5127	1582638384	CMakeFiles/native-lib.dir/native-lib.cpp.o	578f4059a6fae5c5
+5128	5258	1582638384	/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	eab1b467305d9786
+1	5357	1582638385	CMakeFiles/my-lib.dir/my-lib.cpp.o	6de6e917222dd482
+5357	5429	1582638385	/home/renault/dev/AndroidStudioProjects/MyLibraryInclusion/app/build/intermediates/cmake/debug/obj/arm64-v8a/libmy-lib.so	186071dc18723429
